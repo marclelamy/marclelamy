@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marc Lamy</h1>
 <h3 align="center">Aspiring Product Manager in tech. I love python and it's so much fun creating cool projects with it!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marclelamy&label=Profile%20views&color=0e75b6&style=flat" alt="marclelamy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marclelamy" alt="marclelamy" /></a> </p>
 
 - 🔭 I’m currently working on [Tweets Analysis](https://github.com/marclelamy/Tweets-Analysis)
 
